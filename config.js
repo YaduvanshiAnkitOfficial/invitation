@@ -119,7 +119,7 @@ window.INVITATION = {
   "media": {
     "poster": "media/6dc1c91f845cadaa.webp",
     "heroVideo": "videos/hero.mp4",
-    "music": "media/mangalayam-saathiya.mp3",
+    "music": "media/Laal_Ishq.mp3",
     "record": "media/6d5b33044d1ae859.png",
     "monogram": "",
     "initials": "AS"
