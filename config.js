@@ -37,7 +37,7 @@ window.INVITATION = {
     "We can’t wait to celebrate our forever with the people who mean the most to us!"
   ],
   "gallery": [
-    "media/upload-001.png"
+    "media/IMG_7182.png"
   ],
   "eventsTitle": "Wedding Events",
   "events": [
