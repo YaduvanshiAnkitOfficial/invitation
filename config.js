@@ -19,7 +19,7 @@ window.INVITATION = {
     "we request the honour of your gracious",
     "presence to celebrate the wedding of"
   ],
-  "loadingText": "✨ A Beautiful Love Story Awaits... ✨",
+  "loadingText": "✨ Beginning of a lifelong journey... ✨",
   "tapText": "Tap to Begin",
   "withText": "With",
   "wedsText": "Weds",
