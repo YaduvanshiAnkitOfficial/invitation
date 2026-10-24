@@ -3,8 +3,9 @@
 
 .wedding-date{text-transform:none!important;letter-spacing:.02em!important;font-size:1.05rem!important}
 
-/* Three fixed, centred lines inside the heart */
-._dateText_ryx1z_115 {
+/* Keep the date on three centred lines.
+   This selector outranks the lazily loaded scratch-card stylesheet. */
+._scratchSection_ryx1z_1 ._dateText_ryx1z_115 {
   white-space: pre !important;
   text-wrap: nowrap !important;
   text-align: center !important;
