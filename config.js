@@ -133,7 +133,7 @@ window.INVITATION = {
   "sharing": {
     "title": "Ankit Weds Sakshi",
     "description": "💍 Tap to open the invitation and celebrate our special day with us.",
-    "image": "media/IMG_7182_1_optimized_250.png",
-    "publicUrl": ""
+    "image": "media/IMG_7185_4_optimized_250.png",
+    "publicUrl": "https://yaduvanshiankitofficial.github.io/invitation/"
   }
 };
