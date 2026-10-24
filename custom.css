@@ -2,3 +2,13 @@
 .wedding-timing{white-space:pre-line!important;text-transform:none!important;letter-spacing:.02em!important;line-height:1.9!important;font-size: clamp(1.15rem, 2.6vw, 1.15rem) !important;}.wedding-timing+ .dinner-note{margin-top:10px}
 
 .wedding-date{text-transform:none!important;letter-spacing:.02em!important;font-size:1.05rem!important}
+
+/* Three fixed, centred lines inside the heart */
+._dateText_ryx1z_115 {
+  white-space: pre !important;
+  text-wrap: nowrap !important;
+  text-align: center !important;
+  text-transform: none !important;
+  line-height: 1.5 !important;
+  margin: 0 auto !important;
+}
