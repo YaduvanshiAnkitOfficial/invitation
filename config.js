@@ -27,7 +27,7 @@ window.INVITATION = {
   "scratchTitle": "A Special Surprise",
   "scratchSubtitle": "Scratch the heart to reveal our wedding date",
   "scratchHint": "Scratch to reveal! ✨",
-  "dateLabel": "Saturday, 21 November, 2026",
+  "dateLabel": "Saturday,\n21 November, 2026",
   "countdownTitle": "The Big Day Approaches",
   "storyTitle": "Together, Forever",
   "storyParagraphs": [
